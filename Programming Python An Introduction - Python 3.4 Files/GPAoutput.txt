@@ -1,0 +1,5 @@
+Hello Dolly	127.0	228.0
+Tori Donat	18.0	41.5
+Gideon Samsonite	48.5	155.0
+Thorsten Willson	37.0	125.33
+Adrien Donat	100.0	400.0
